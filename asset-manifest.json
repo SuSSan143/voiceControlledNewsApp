@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/voiceControlledNewsApp/static/js/main.4564bc19.chunk.js",
+    "main.js.map": "/voiceControlledNewsApp/static/js/main.4564bc19.chunk.js.map",
+    "runtime-main.js": "/voiceControlledNewsApp/static/js/runtime-main.eb877a28.js",
+    "runtime-main.js.map": "/voiceControlledNewsApp/static/js/runtime-main.eb877a28.js.map",
+    "static/js/2.2ede22fc.chunk.js": "/voiceControlledNewsApp/static/js/2.2ede22fc.chunk.js",
+    "static/js/2.2ede22fc.chunk.js.map": "/voiceControlledNewsApp/static/js/2.2ede22fc.chunk.js.map",
+    "index.html": "/voiceControlledNewsApp/index.html",
+    "static/js/2.2ede22fc.chunk.js.LICENSE.txt": "/voiceControlledNewsApp/static/js/2.2ede22fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb877a28.js",
+    "static/js/2.2ede22fc.chunk.js",
+    "static/js/main.4564bc19.chunk.js"
+  ]
+}
